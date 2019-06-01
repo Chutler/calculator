@@ -1,4 +1,13 @@
-#output {
-    font-size: large;
-    color: green;
+h1  {
+    color: darkgreen;
+    text-align: center;
 }
+
+#output {
+    font-size: 150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    color: chartreuse;
+    text-align: center;
+    background-color: black;
+}
+
