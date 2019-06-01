@@ -1,6 +1,6 @@
 # Web Calculator
 
-#### A JS Driven Calculator, 5/15/19
+#### A JS Driven Calculator, 5/31/19
 
 #### By Jarred & Craig
 
